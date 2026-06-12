@@ -1,3 +1,3 @@
 # dehisre-main
 
-In diesem Repository werden alle Daten des digitalen Editionsprojekts DEHisRe veröffentlicht.
+In diesem Repository sind Editionsrichtlinien des digitalen Editionsprojekts DEHisRe veröffentlicht.
